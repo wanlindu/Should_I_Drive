@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25992a8b-1c42-4163-b638-2037fbcba695" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Scala Object" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1XjZErasZnXvjlcdG4gSTsbbPCr" />
+  <component name="ProjectViewState">
+    <option name="flattenPackages" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.12515645" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Events" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="events [file:/Users/wanlindu/Downloads/dataset/Codes/Scala%20Codes/Events/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Events-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3163122843696" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="3674511747" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="3666975207" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25992a8b-1c42-4163-b638-2037fbcba695" name="Default Changelist" comment="" />
+      <created>1581561355575</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581561355575</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="698" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581565877099">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="330" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581565877099" />
+    <state x="698" y="247" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1581561559944">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="698" y="247" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1581561559944" />
+    <state x="734" y="418" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1581561418012">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="734" y="418" width="451" height="276" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.23.1920.1057@0.23.1920.1057" timestamp="1581561418012" />
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1581565909500">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="294" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1581565909500" />
+    <state x="448" y="121" key="SettingsEditor" timestamp="1581565887352">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="448" y="121" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1581565887352" />
+  </component>
+</project>
